@@ -7,8 +7,14 @@ body {
     font-family: 'Open Sans', sans-serif;
     background:  #222;
     background-image: url(https://source.unsplash.com/random?landscape);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
     font-size: 120%;
 }
+
+
 
 .card {
     background:  #000000d0;
